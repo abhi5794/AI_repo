@@ -1,0 +1,4 @@
+# Fancyimputer
+conda install ecos  
+conda install CVXcanon  
+pip install fancyimpute  
