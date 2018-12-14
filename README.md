@@ -1,3 +1,4 @@
 # AI_repo
 
-A repository of most used codes for ML.
+My reference for all things machine learning.
+These include best practices and custom code for automating ML pipeline.
